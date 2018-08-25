@@ -176,7 +176,7 @@ cond2(yes)->cond3
 cond3(yes)->o2->e
 cond3(no)->o4->e
 ```
-```
+
 
 ```flow
 st=>start: Start
@@ -197,11 +197,3 @@ cond2(yes)->cond3
 cond3(yes)->o2->e
 cond3(no)->o4->e
 ```
-
-
-
-
-
-
-
-
